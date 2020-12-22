@@ -2,7 +2,7 @@
 
 :raising_hand_woman: Soy Beatriz Gálvez, [*journocoder*](https://journocoders.com/), barcelonesa viviendo en Madrid. Soy **periodista**, especializada en investigación :mag_right:, datos :1234: y visualización :bar_chart:. Además, estoy especializada en periodismo científico :dna::microscope::stethoscope:. 
 
-Ahora, trabajo como redactora en [**Informe Semanal**](https://www.rtve.es/alacarta/videos/informe-semanal/informe-semanal-carrera-vacunas/5666411/) de RTVE :tv:, pero he pasado por el Canal 24h y por [RTVE.es](rtve.es). 
+Ahora, coordino contenidos de programas no diarios de la web RTVE.es. Antes, he trabajo como redactora en [**Informe Semanal**](https://www.rtve.es/alacarta/videos/informe-semanal/informe-semanal-carrera-vacunas/5666411/) de RTVE :tv:, pero he pasado por el Canal 24h y por [RTVE Catalunya](https://www.rtve.es/television/catalunya/noticies/). 
 
 ![Beatriz Gálvez][img2] 
 
