@@ -13,7 +13,7 @@ Ahora, coordino contenidos RTVE.es Notícies en Cataluña. Antes, he trabajo com
 📫 Me puedes encontrar en: 
 
 * [LinkedIn](https://www.linkedin.com/beatrizgalvezgarces/)
-* @beaglvz
+* [@beaglvz](https://twitter.com/beaglvz?lang=es)
 
 ⚡ Fun fact: me gusta navegar :sailboat: y pintar :art:
 
