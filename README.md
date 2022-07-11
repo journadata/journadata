@@ -15,7 +15,7 @@ Ahora, coordino contenidos RTVE.es Notícies en Cataluña. Antes, he trabajo com
 * [LinkedIn](https://www.linkedin.com/beatrizgalvezgarces/)
 * @beaglvz
 
-⚡ Fun fact: me gusta navegar :sailboat: y pintar :art:(ambas en el mundo físico y virtual) 
+⚡ Fun fact: me gusta navegar :sailboat: y pintar :art:
 
 :musical_note: Me chifla la música Indie. 
  
