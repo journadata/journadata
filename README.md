@@ -25,3 +25,42 @@ Ahora, coordino contenidos RTVE.es Notícies en Cataluña y en el Cafè d'idees.
 **journadata/journadata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
+
+-----------------------------------------------------------
+
+### Howdy 👋
+
+🙋‍♀️ I'm **Beatriz Gálvez**, a [*journocoder*](https://journocoders.com/) — a **journalist** specialized in **investigative reporting** 🔍, **data** 🔢, and **visualization** 📊. I also have a background in **science journalism** 🧬🔬🩺.  
+
+🧠 I'm currently a student in the **Lede Program for Data Journalists** at *Columbia University*.
+
+---
+
+📰 I coordinate content at **RTVE.es Notícies** in Catalonia and contribute to *Cafè d'idees*.  
+Previously, I worked as a reporter for [**Informe Semanal**](https://www.rtve.es/alacarta/videos/informe-semanal/informe-semanal-carrera-vacunas/5666411/) 📺, and I’ve also been part of **Canal 24h** as an editor and [**RTVE Catalunya**](https://www.rtve.es/television/catalunya/noticies/).  
+
+At [**RTVE.es**](https://www.rtve.es/), I explored **new storytelling formats** and contributed to the award-winning project [*1000 mujeres asesinadas*](https://lab.rtve.es/mil-mujeres-asesinadas/) by the RTVE Innovation Lab.  
+
+![This is me](https://img2.rtve.es/i/?w=800&crop=no&o=no&i=1601550688297.jpg)
+
+---
+
+### 👩‍💻 Tech & Tools
+
+🌱 I'm learning **to code**, switching between **R**, **Python**, and **data tools** every day.  
+👯 Member of [**API Investigación**](https://investigacionapi.com/) and [**ACCC**](https://www.accc.cat/).  
+🎓 Current: **Lede Program @ Columbia University**
+
+---
+
+### 📫 Let's connect
+
+- [LinkedIn](https://www.linkedin.com/beatrizgalvezgarces/)
+- [Twitter @beaglvz](https://twitter.com/beaglvz?lang=es)
+
+---
+
+### 🎨 Fun facts
+
+- I love sailing ⛵ and painting 🎨  
+- Big fan of **indie music** 🎵
