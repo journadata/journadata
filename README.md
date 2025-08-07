@@ -40,7 +40,7 @@ Previously, I worked as a reporter for [**Informe Semanal**](https://www.rtve.es
 
 At [**RTVE.es**](https://www.rtve.es/), I explored **new storytelling formats** and contributed to the award-winning project [*1000 mujeres asesinadas*](https://lab.rtve.es/mil-mujeres-asesinadas/) by the RTVE Innovation Lab.  
 
-![This is me](https://img2.rtve.es/i/?w=800&crop=no&o=no&i=1601550688297.jpg)
+[img2]: https://img2.rtve.es/i/?w=800&crop=no&o=no&i=1601550688297.jpg "This is me"
 
 
 ### 👩‍💻 Tech & Tools
